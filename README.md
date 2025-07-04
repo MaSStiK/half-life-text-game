@@ -7,7 +7,6 @@
 1. Откройте файл `Project.exe`.
 2. Следуйте инструкциям на экране.
 
-
-![изображение](https://github.com/user-attachments/assets/d2e9e54b-7638-451c-8285-dca5f210154c)
-![изображение](https://github.com/user-attachments/assets/1f7d9cd5-df19-4071-8d2a-4426f94c7f6a)
+![изображение](https://github.com/user-attachments/assets/73dcb36b-549a-4736-b039-922a5005270f)
+![изображение](https://github.com/user-attachments/assets/793a2d84-228f-4e8d-ae4d-d954a516dbcc)
 ![изображение](https://github.com/user-attachments/assets/d8abb896-218b-4c94-b17b-c86a7c1bf205)
