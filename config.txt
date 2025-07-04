@@ -1,0 +1,5 @@
+save1: 12
+save2: 0
+save3: 0
+autoSave: 1
+slowPrint: 1
